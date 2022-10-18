@@ -1,4 +1,4 @@
-# ECE 5510 Homework 4 Template
+# CS/ECE 5510 Homework 4 Template
 
 ## Contact
 
@@ -52,7 +52,7 @@ This will produce the binaries in the build folder.
 ### Running Benchmark main programs:
 
 __Benchmark__:
-`java -cp build/libs/hw4.jar edu.vt.ece.hw4.Benchmark <YOUR_ARGS>`
+`java -cp build/libs/homework4.jar edu.vt.ece.hw4.Benchmark <YOUR_ARGS>`
 
 Replace `<YOUR_ARGS>` with the arguments you would like to pass to the respective main programs. 
 Note that the TA will only run the above command to verify if the submission works. 
