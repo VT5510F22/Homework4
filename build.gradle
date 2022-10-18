@@ -10,7 +10,7 @@ sourceCompatibility = 1.8
 repositories {
     mavenCentral()
 }
-apply plugin: 'java'
+
 dependencies {
     testImplementation 'junit:junit:3.8.1'
 }
